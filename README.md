@@ -38,15 +38,6 @@ Place the `ESC-50-master` directory in the root of this project.
 
 ---
 
-### 4. Add Pretrained AST Weights
-
-Download the pretrained AST model weights (e.g., from the [official AST GitHub](https://github.com/YuanGongND/ast)) and place it in the project root as:
-
-```
-pretrained_ast.pth
-```
-
----
 
 ### 5. Train the AST Model
 
